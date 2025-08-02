@@ -2,8 +2,6 @@
 title: "First Post"
 date: 2025-08-01
 ---
-# First Post
-
 [Rails World is So Good - ThePrimeTime](https://youtu.be/Z9uMPYB74o0)
 - [SST: Deploy everything your app needs with a single config.](https://sst.dev/)
 - [OMAKUB: An Omakase Developer Setup for Ubuntu 24.04+ by DHH](https://omakub.org/)
