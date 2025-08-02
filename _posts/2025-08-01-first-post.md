@@ -1,5 +1,6 @@
 ---
-title: "August 1st 2025"
+title: "First Post"
+date: 2025-08-01
 ---
 
 [Rails World is So Good - ThePrimeTime](https://youtu.be/Z9uMPYB74o0)
