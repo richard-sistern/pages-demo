@@ -6,6 +6,7 @@ date: 2025-08-03
 - [Dokku: An open source PAAS alternative to Heroku](https://dokku.com)
     - [Pawel Urbanek: How to Migrate a Ruby on Rails App from Heroku to Dokku](https://pawelurbanek.com/rails-heroku-dokku-migration)
     - [Pawel Urbanek: Optimize Dokku Deployment Speed for Ruby on Rails with Dockerfile](https://pawelurbanek.com/optimize-dokku-deployment-speed)
+    - [Wharf: Web UI for Dokku](https://github.com/palfrey/wharf/tree/master)
 - [Minitest: Lightweight unit testing framework](https://github.com/minitest/minitest)
 - [RuboCop: Static code analyzer for Rails](https://github.com/rubocop/rubocop-rails?tab=readme-ov-file)
 - [Devise: Authentication solution for Rails](https://github.com/heartcombo/devise)
